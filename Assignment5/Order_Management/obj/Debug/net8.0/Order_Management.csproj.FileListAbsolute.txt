@@ -1,0 +1,14 @@
+C:\Users\wuxif\Desktop\Tasks-wjy-main\assignment5\Order_Management\bin\Debug\net8.0\Order_Management.exe
+C:\Users\wuxif\Desktop\Tasks-wjy-main\assignment5\Order_Management\bin\Debug\net8.0\Order_Management.deps.json
+C:\Users\wuxif\Desktop\Tasks-wjy-main\assignment5\Order_Management\bin\Debug\net8.0\Order_Management.runtimeconfig.json
+C:\Users\wuxif\Desktop\Tasks-wjy-main\assignment5\Order_Management\bin\Debug\net8.0\Order_Management.dll
+C:\Users\wuxif\Desktop\Tasks-wjy-main\assignment5\Order_Management\bin\Debug\net8.0\Order_Management.pdb
+C:\Users\wuxif\Desktop\Tasks-wjy-main\assignment5\Order_Management\obj\Debug\net8.0\Order_Management.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wuxif\Desktop\Tasks-wjy-main\assignment5\Order_Management\obj\Debug\net8.0\Order_Management.AssemblyInfoInputs.cache
+C:\Users\wuxif\Desktop\Tasks-wjy-main\assignment5\Order_Management\obj\Debug\net8.0\Order_Management.AssemblyInfo.cs
+C:\Users\wuxif\Desktop\Tasks-wjy-main\assignment5\Order_Management\obj\Debug\net8.0\Order_Management.csproj.CoreCompileInputs.cache
+C:\Users\wuxif\Desktop\Tasks-wjy-main\assignment5\Order_Management\obj\Debug\net8.0\Order_Management.dll
+C:\Users\wuxif\Desktop\Tasks-wjy-main\assignment5\Order_Management\obj\Debug\net8.0\refint\Order_Management.dll
+C:\Users\wuxif\Desktop\Tasks-wjy-main\assignment5\Order_Management\obj\Debug\net8.0\Order_Management.pdb
+C:\Users\wuxif\Desktop\Tasks-wjy-main\assignment5\Order_Management\obj\Debug\net8.0\Order_Management.genruntimeconfig.cache
+C:\Users\wuxif\Desktop\Tasks-wjy-main\assignment5\Order_Management\obj\Debug\net8.0\ref\Order_Management.dll

@@ -1,0 +1,2 @@
+C:\Users\wuxif\Desktop\Tasks-wjy-main\Assignment7\OrderService\obj\Debug\OrderService.csproj.AssemblyReference.cache
+C:\Users\wuxif\Desktop\Tasks-wjy-main\Assignment7\OrderService\obj\Debug\OrderService.csproj.CoreCompileInputs.cache

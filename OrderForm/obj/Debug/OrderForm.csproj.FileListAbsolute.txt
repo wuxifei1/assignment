@@ -1,0 +1,6 @@
+C:\Users\wuxif\Desktop\Tasks-wjy-main\Assignment7\OrderForm\obj\Debug\OrderForm.csproj.AssemblyReference.cache
+C:\Users\wuxif\Desktop\Tasks-wjy-main\Assignment7\OrderForm\obj\Debug\OrderForm.FormDetailEdit.resources
+C:\Users\wuxif\Desktop\Tasks-wjy-main\Assignment7\OrderForm\obj\Debug\OrderForm.FormMain.resources
+C:\Users\wuxif\Desktop\Tasks-wjy-main\Assignment7\OrderForm\obj\Debug\OrderForm.FormEdit.resources
+C:\Users\wuxif\Desktop\Tasks-wjy-main\Assignment7\OrderForm\obj\Debug\OrderForm.FormParent.resources
+C:\Users\wuxif\Desktop\Tasks-wjy-main\Assignment7\OrderForm\obj\Debug\OrderForm.csproj.GenerateResource.cache
